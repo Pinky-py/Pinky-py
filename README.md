@@ -4,4 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinky-py&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on discord bots and web development stuff in Python + JavaScript
-- 📫 How to reach me: I have an account on Discord! Here's the profile: Pinky#1601
+- 📫 How to reach me: I have an account on Discord! Here's the profile: Пенка#6080
